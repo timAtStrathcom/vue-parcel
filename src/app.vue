@@ -7,7 +7,7 @@
 </template>
 
 <script>
-    import TradeForm from "./trade-form";
+    import TradeForm from "./trade-form-entry";
     export default {
         name: "hello-world",
         components: {TradeForm}
