@@ -1,0 +1,8 @@
+*.swp
+.idea/
+.vscode/
+dist/
+.cache/
+node_modules/
+
+report.html
